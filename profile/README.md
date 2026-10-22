@@ -52,7 +52,6 @@ Windows PCs collect history, cookies, cache and site data across every browser i
 |---|---|
 | **Website** | https://verokod.github.io/all-browser-cleaner/ |
 | **Download** | https://github.com/verokod/all-browser-cleaner/releases |
-| **Source** | https://github.com/verokod/all-browser-cleaner |
 
 *More tools are in the works — every future release will follow the same rules: private by design, honest, and lightweight.*
 
