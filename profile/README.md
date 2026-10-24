@@ -44,7 +44,7 @@ Windows PCs collect history, cookies, cache and site data across every browser i
 - Cleans history, downloads list, cookies, cache, site storage, site settings and autofill data
 - **Per-browser selection** — a browser you don't tick is never closed and never touched
 - **Protect lock** — mark your main browser as Protected and it can never be cleaned by accident
-- **Bookmarks and extensions are never removed**
+- **Bookmarks and extensions are never removed by normal cleaning**
 - Optional deep items (saved passwords, extension storage) stay **off by default** and ask for extra confirmation
 - A clear activity log shows **what was cleaned and how much space came back** — nothing else
 
